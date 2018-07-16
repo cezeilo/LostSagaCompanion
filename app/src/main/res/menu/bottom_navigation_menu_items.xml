@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Hero"
+            android:icon="@drawable/baseline_perm_identity_black_18dp"
+          android:id="@+id/hero_tab"
+        />
+
+    <item android:title="Gear"
+        android:icon="@drawable/baseline_settings_black_18dp"
+        android:id="@+id/gear_tab"
+
+        />
+
+    <item android:title="Costume"
+        android:icon="@drawable/baseline_group_black_18dp"
+        android:id="@+id/costume_tab"
+        />
+
+
+    <item android:title="Evo"
+        android:icon="@drawable/baseline_grade_black_18dp"
+        android:id="@+id/evo_tab"
+
+        />
+
+    <item android:title="Guide"
+        android:icon="@drawable/baseline_school_black_18dp"
+        android:id="@+id/guide_tab"
+
+        />
+
+
+</menu>
