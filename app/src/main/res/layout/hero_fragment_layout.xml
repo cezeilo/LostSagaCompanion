@@ -37,12 +37,32 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="84dp"
         />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/hero_categories_selector"
+        android:layout_toRightOf="@id/hero_selector"
+        android:layout_marginTop="84dp"
+        android:layout_marginLeft="20dp"
+        android:visibility="invisible"
+        />
     <View
         android:layout_width="fill_parent"
         android:layout_height="1dp"
         android:background="#FF0000FF"
         android:layout_marginTop="115dp"
+        android:id="@+id/divider"
         />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/divider"
+        android:id="@+id/HeroList"
+        >
+
+    </ListView>
 
 
 

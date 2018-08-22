@@ -1,9 +1,22 @@
 <resources>
     <string name="app_name">LostSaga Companion</string>
     <string-array name="hero_types">
+        <item>All</item>
         <item>Melee</item>
         <item>Ranged</item>
         <item>Magic</item>
         <item>Special</item>
     </string-array>
+
+    <string-array name="hero_categories">
+        <item>All</item>
+        <item>Normal</item>
+        <item>Premium</item>
+        <item>Rare</item>
+        <item>Contest</item>
+        <item>Idol</item>
+        <item>R</item>
+        <item>Unique</item>
+    </string-array>
+
 </resources>

@@ -1,0 +1,229 @@
+1, Iron Knight, Melee, Normal
+2, Captain Hook, Special, Normal
+3, Western Gunman, Ranged, Normal
+4, Fire Mage, Magic, Normal
+5, Cyber Medic, Magic, Normal
+6, Savage Berserker, Melee, Normal
+7, Robin Hood, Ranged, Normal
+8, Crazy Sapper, Special, Normal
+9, Ice Mage, Magic, Normal
+10, Infantry, Ranged, Normal
+11, Space Trooper, Ranged, Normal
+12, Shadow Assassin, Melee, Normal
+13, Justice Defender, Melee, Normal
+14, Tao Warrior, Melee, Normal
+15, Boxer, Melee, Normal
+16, Viking, Melee, Normal
+17, Kage Ninja, Melee, Normal
+18, Musketeer, Ranged, Normal
+19, Taekwon Master, Melee, Normal
+20, Dark Shaman, Magic, Normal
+21, Joker, Melee, Normal
+22, Treasure Hunter, Ranged, Normal
+23, Grim Reaper, Melee, Normal
+24, Lightning Mage, Magic, Normal
+25, Paladin, Melee, Normal
+26, Mafia, Ranged, Normal
+27, Tiger, Melee, Normal
+28, Desert Blader, Melee, Normal
+29, Death Knight, Melee, Normal
+30, Sol Badguy, Melee, Premium
+31, Heavy Crasher, Special, Normal
+32, Special Force, Ranged, Premium
+33, Samurai, Melee, Normal
+34, Running Back, Melee, Normal
+35, Chaos Daliah, Ranged, Premium
+36, Zorro, Melee, Normal
+37, Jin Kisaragi, Melee, Premium
+38, Necromancer, Magic, Normal
+39, Kung Fu Master, Melee, Premium
+40, Gladiator, Melee, Normal
+41, Exorcist, Special, Premium
+42, Pro Wrestler, Melee, Normal
+43, Magic Lancer, Special, Premium
+44, Puppeteer, Special, Normal
+45, Hawkeye, Melee, Normal
+46, Devil Ranger, Ranged, Normal
+47, Lancer, Melee, Normal
+48, Priest, Melee, Premium
+49, Capoeira, Melee, Normal
+50, Ragna, Melee, Premium
+51, Monkey King, Melee, Normal
+52, Swordsman Baek, Melee, Premium
+53, Chieftan, Melee, Normal
+54, Hazama, Melee, Premium
+55, Rockstar, Special, Normal
+56, Changchun, Melee, Premium
+57, Werewolf, Special, Normal
+58, May, Melee, Premium
+59, Muay Thai, Melee, Normal
+60, Chaos Refud, Special, Premium
+61, Gatotkaca, Melee, Normal
+62, Rachel Alucard, Special, Premium
+63, Iljimae, Melee, Normal
+64, Staff Master, Melee, Normal
+65, Witch, Magic, Normal
+66, V-Mech, Melee, Normal
+67, King Arthur, Melee, Normal
+68, Zhao Yun, Melee, Normal
+69, Card Magician, Melee, Normal
+70, Barbarian, Melee, Normal
+71, Iori, Melee, Premium
+72, D'Artagnan, Melee, Normal
+73, Graffiti, Melee, Contest
+74, Haohmaru, Melee, Premium
+75, Phantom, Special, Normal
+76, Sorcerer, Magic, Normal
+77, Mai Shiranui, Melee, Premium
+78, Zhuge Liang, Magic, Rare
+79, Forcer, Ranged, Rare
+80, Yumira, Melee, Premium
+81, Lucifer, Melee, Normal
+82, Kyo Kusanagi, Melee, Premium
+83, Desperado, Ranged, Normal
+84, Nakoruru, Melee, Premium
+85, Destroyer, Ranged, Normal
+86, Michael, Melee, Rare
+87, Doggaebi, Melee, Normal
+88, Gumiho, Melee, Rare
+89, Peter Pan, Melee, Normal
+90, Dragon Rider, Special, Normal
+91, Succubus, Special, Rare
+92, Cyborg, Melee, Normal
+93, Trinity, Speical, Premium
+94, Hwarang, Melee, Normal
+95, Windrunner, Special, Premium
+96, Monk, Melee, Rare
+97, Anubis, Melee, Normal
+98, Kali, Melee, Premium
+99, Skadi, Rare, Special
+100, Demon Thief, Special, Contest
+101, Jin Mo-Ri, Melee, Premium
+102, Vampire, Special, Rare
+103, Project K, Special, Normal
+104, Hakumen, Melee, Premium
+105, Devil, Special, Rare
+106, Maid, Melee, Rare
+107, Flash, Melee, Rare
+108, Evy, Melee, Premium
+109, Psychometry, Ranged, Rare
+110, Sudden Attack, Ranged, Premium
+111, Slasher, Melee, Rare
+112, Son Tae-Yang, Melee, Premium
+113, Earth Mage, Magic, Rare
+114, Titan, Melee, Rare
+115, Time Space, Melee, Rare
+116, Kim Yun Seong, Melee, Premium
+117, Arcanist, Magic, Rare
+118, Galaxy Mage, Magic, Rare
+119, Dragon Slayer, Melee, Normal
+120, Nang In, Melee, Normal
+121, Striker, Melee, Rare
+122, Don Quixote, Melee, Normal
+123, Dragon Nest Assassin, Melee, Premium
+124, Thunderbird, Ranged, Rare
+125, Alice, Ranged, Normal
+126, Bruce Lee, Melee, Rare
+127, Valkyrie, Melee, Normal
+128, Park Il-Pyo, Melee, Premium
+129, Earthquake, Melee, Rare
+130, Jack O' Lantern, Melee, Rare
+131, Pentjak Silat, Melee, Contest
+132, Shadow Ranger, Melee, Normal
+133, Dark Knight, Melee, Normal
+134, Jumper, Melee, Rare
+135, Engineer, Special, Rare
+136, Geomje, Melee, Normal
+137, Zeus, Melee, Rare
+138, F-Saber, Melee, Normal
+139, Outboxer, Melee, Normal
+140, Death Angel, Special, Rare
+141, Hades, Melee, Normal
+142, Magic Swordsman, Special, Normal
+143, Nata, Melee, Normal
+144, Yi Sun-Sin, Melee, Normal
+145, Researcher, Ranged, Normal
+146, Blade, Special, Rare
+147, Matador, Melee, Rare
+148, Jeon Woo Chi, Melee, Normal
+149, Hwanma Gangsi, Melee, Normal
+150, Chemical Engineer, Melee, Rare
+151, Chain Magician, Magic, Rare
+152, Red Hood, Melee, Normal
+153, Strider, Melee, Unique
+154, Nephilim, Melee, Normal
+155, Apostate, Melee, Rare
+156, Mutant, Melee, Rare
+157, Ganesha, Melee, Normal
+158, Mir 2 - Warrior, Melee, Premium
+159, Cuchulain, Melee, Normal
+160, Galford, Melee, Premium
+161, Gwimusa, Melee, Normal
+162, Druid, Magic, Rare
+163, Jin Sasinmu, Melee, Unique
+164, Dark Sith, Melee, Rare
+165, Predator, Ranged, Rare
+166, Crow, Melee, Normal
+167, Soul Master, Speical, Rare
+168, Black Spear, Melee, Rare
+169, Mephisto, Melee, Unique
+170, Gunner, Ranged, Premium
+171, Powered, Melee, Rare
+172, Trapmaster, Special, Normal
+173, BTS (Bangtan Boys), Melee, Premium/Idol
+174, Witchdoctor, Special, Rare
+175, Surfer, Melee, Rare
+176, Bubble Fighter, Ranged, Premium
+177, Hong Jin-Young, Ranged, Premium/Idol
+178, Uriel, Melee, Unique
+179, Patriot, Ranged, Normal
+180, Pungsin, Ranged, Rare
+181, Warp, Melee, Normal
+182, Rudolph, Melee, Rare
+183, Drill, Melee, Rare
+184, Stranger, Ranged, Unique
+185, Gargoyle, Special, Normal
+186, Hacker, Special, Mormal
+187, Cannon, Ranged, Normal
+188, Magic Engineer, Melee, Rare
+189, Vagabond, Melee, Normal
+190, Kungfu Master, Melee, Rare
+191, Nightmare, Special, Normal
+192, Azazel, Melee, Unique
+193, Mega Agent, Ranged, Rare
+194, Neo, Melee, Normal
+195, Santa, Melee, Rare
+196, Jack Frost, Special, Rare
+197, Automaton, Melee, Unique
+198, Gardener, Special, Normal
+199, Megabat, Ranged, Rare
+200, Karate Fighter, Melee, Rare
+201, Soccer, Melee, Rare
+202, Vulcan, Ranged, Normal
+505, R-Cyber Medic, Magic, R-Hero
+509, R-Ice Mage, Magic, R-Hero
+514, R-Bluedragon Guanyu, Melee, R-Hero
+807, Sowon, Ranged, Premium/Idol
+885, Yuju, Ranged, Premium/Idol
+902, SinB, Special, Premium/Idol
+920, Yerin, Melee, Premium/Idol
+926, Umji, Melee, Premium/Idol
+938, Eunha, Melee, Premium/Idol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
